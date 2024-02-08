@@ -14,7 +14,7 @@ public class GameState extends State {
 
     public GameState(Handler handler){
         super(handler);
-        world= new  World(handler,"C:\\Users\\Dell\\Downloads\\gamePractice\\game\\res\\worlds\\world1");
+        world= new  World(handler,"game/res/worlds/world1");
         handler.setWorld(world);
 
 

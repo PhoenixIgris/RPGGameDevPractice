@@ -14,7 +14,7 @@ public class Assets {
 
     public static void init() {
 
-        SpriteSheet sheet = new SpriteSheet(ImageLoader.loadImage("C:\\Users\\Dell\\Downloads\\gamePractice\\game\\res\\textures\\sheet4.png"));
+        SpriteSheet sheet = new SpriteSheet(ImageLoader.loadImage("game/res/textures/sheet4.png"));
 // START BUTTON
         btn_start= new BufferedImage[2];
         btn_start[0]=sheet.crop(width * 6, height*4, width*2, height);
