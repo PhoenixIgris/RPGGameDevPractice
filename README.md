@@ -10,6 +10,7 @@ This is an ongoing project aimed at developing a role-playing game (RPG) using J
 
 ## Demo
 ![Demo](demo.gif)
+[Click here to view the demo](https://drive.google.com/file/d/1WKQRdSVun8y-RZQkzJ14RPmrdkFa7NPE/view?usp=sharing)
 
 ## Technologies Used
 - **Java**: The primary programming language used for game development.
